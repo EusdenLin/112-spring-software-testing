@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@stryker-mutator/core": "^8.2.6",
+    "stryker-api": "^0.24.1",
+    "stryker-javascript-mutator": "^0.14.1"
+  }
+}
